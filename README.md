@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pollyjohn
+- 👋 Hi, I’m João (john)
 - 👀 I’m interested in data science/ML, data engineering, cloud computing, OOP (Python and JavaScript) 
 - 🌱 I’m currently learning cloud computing, python advanced, front-end, c# and java script; 
 - 💞️ I’m looking to collaborate on data science projects or in data engineer teams
